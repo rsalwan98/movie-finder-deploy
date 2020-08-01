@@ -1,0 +1,12 @@
+.MovieDisplayBox{
+    width : 100%;
+    min-height: 200px;
+    margin-top: 70px;
+    text-align: center;
+}
+
+.MovieBox{
+    margin: auto;
+    width : 900px;
+    min-height: 100px;
+}

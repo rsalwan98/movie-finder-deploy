@@ -1,0 +1,11 @@
+.MovieImage{
+    width: 300px;
+    margin: auto;
+}
+.MovieInfo{
+    padding-left: 15px;
+}
+
+.popUp{
+    text-align: center;
+}

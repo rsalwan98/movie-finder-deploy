@@ -1,0 +1,18 @@
+.MovieTile{
+    height : 280px;
+    width: 200px;
+    background-color: white;
+    float: left;
+    margin-bottom: 20px;
+    margin-left: 20px;
+    border-radius: 5px;
+    background-color: lightgrey;
+}
+
+.Poster{
+    margin-top: 15px;
+    height : 180px;
+    width: 170px;
+    border-radius: 5px;
+    border: thin solid black;
+}

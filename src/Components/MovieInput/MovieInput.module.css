@@ -1,0 +1,45 @@
+.MovieInput{
+    height : 100px;
+    width : 500px;
+    background-color: lightblue;
+    text-align: center;
+    margin: auto;
+    margin-top: 75px;
+    border-radius: 10px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+.TextBox{
+    width: 250px;
+    height : 25px;
+    border-radius: 5px;
+    border: none;
+}
+
+.SubmitButton{
+    border: none;
+    background-color: #222851;
+    color: white;
+    margin-left: 30px;
+    height: 30px;
+    width: 75px;
+    border-radius: 5px;
+}
+
+::-webkit-input-placeholder {
+    text-align: center;
+ }
+ 
+ :-moz-placeholder { /* Firefox 18- */
+    text-align: center;  
+ }
+ 
+ ::-moz-placeholder {  /* Firefox 19+ */
+    text-align: center;  
+ }
+ 
+ :-ms-input-placeholder {  
+    text-align: center; 
+ }
