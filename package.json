@@ -2,7 +2,7 @@
   "name": "movie_api",
   "version": "0.1.0",
   "private": true,
-  "homepage": "http://rsalwan98.github.io/movie-finder-deploy",
+  "homepage": "https://rsalwan98.github.io/movie-finder-deploy",
   "dependencies": {
     "@testing-library/jest-dom": "^4.2.4",
     "@testing-library/react": "^9.5.0",
